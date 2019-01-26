@@ -1,0 +1,2 @@
+# gshell
+generic script
