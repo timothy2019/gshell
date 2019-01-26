@@ -33,16 +33,9 @@
 
 ## 其他地址
 
-- 开源中国●码云地址：[https://gitee.com/aqztcom/docker-alpine](https://gitee.com/aqztcom/docker-alpine) 
 - Github地址：[https://github.com/timothy2019/gshell/tree/master/docker](https://github.com/timothy2019/gshell/tree/master/docker) 
 - Docker官方容器地址：[https://hub.docker.com/r/aqzt/docker-alpine/](https://hub.docker.com/r/aqzt/docker-alpine/) 
 
-## 微信关注支持
-
-![image](https://git.oschina.net/aqztcom/kjyw/raw/master/images/aqzt.jpg)
-- 一起来参与完善，分享或是交流，提高工作效率！
-- 如果想分享或是交流的话，请加快捷运维QQ群：7652650 
-- Email：ppabc@qq.com
 
 ## 配置
 
